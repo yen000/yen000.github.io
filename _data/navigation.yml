@@ -14,18 +14,19 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /files/resume.pdf
+  # - title: "Portfolio"
+  #   url: /files/resume.pdf
     # url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-
   - title: "Music"
-    url: /music/    
+    url: /music/   
+
+  - title: "Resume"
+    url: /files/resume.pdf 
+    # url: /cv/
     
   - title: "Guide"
     url: /markdown/
